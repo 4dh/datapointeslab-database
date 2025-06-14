@@ -11,16 +11,16 @@
   [![Brands](https://img.shields.io/badge/Brands-15+-orange.svg)]()
 </div>
 
-## ⚠️ IMPORTANT DISCLAIMERS & LIABILITY LIMITATIONS
+## IMPORTANT DISCLAIMERS & LIABILITY LIMITATIONS
 
-**🚨 BY USING THIS DATA, YOU ACKNOWLEDGE AND AGREE TO THESE TERMS 🚨**
+** BY USING THIS DATA, YOU ACKNOWLEDGE AND AGREE TO THESE TERMS **
 
 **CRITICAL NOTICE:** This data is provided for informational purposes only. Pointe work is inherently dangerous and can cause serious injuries. Always consult qualified medical professionals and certified ballet instructors before beginning pointe work. We assume no liability for any injuries, damages, or losses resulting from use of this data.
 
 <details>
 <summary><strong>📋 Click to expand full liability disclaimer and legal terms</strong></summary>
 
-### 🛡️ COMPLETE LIABILITY DISCLAIMER
+### COMPLETE LIABILITY DISCLAIMER
 
 **WE ARE NOT RESPONSIBLE FOR:**
 - **Any injuries or damages** from using this data to select, purchase, or wear pointe shoes
@@ -29,7 +29,7 @@
 - **Professional consequences** from footwear-related injuries or performance issues
 - **Any direct, indirect, incidental, or consequential damages** of any kind
 
-### ⚕️ CRITICAL SAFETY WARNING
+### CRITICAL SAFETY WARNING
 
 **POINTE WORK IS INHERENTLY DANGEROUS** and can cause serious injuries including stress fractures, tendon damage, nerve damage, and chronic pain conditions.
 
@@ -39,7 +39,7 @@
 - This data is NOT a substitute for professional fitting or medical advice
 - Individual foot anatomy, strength, and training history are critical factors not captured in this data
 
-### 📊 DATA LIMITATIONS
+### DATA LIMITATIONS
 
 **NO WARRANTIES:** Data provided "AS-IS" with no guarantees of accuracy, completeness, or fitness for purpose.
 
@@ -47,7 +47,7 @@
 
 **HIGHLY INDIVIDUAL:** Pointe shoe selection depends on numerous personal factors not included in this database.
 
-### ⚖️ LEGAL TERMS
+### LEGAL TERMS
 
 - **USE AT YOUR OWN RISK:** All use is entirely at your discretion and risk
 - **ASSUMPTION OF RISK:** You assume all risks associated with pointe shoe selection and use
@@ -57,7 +57,7 @@
 
 </details>
 
-## 📊 What's Included
+## What's Included
 
 This comprehensive dataset contains detailed specifications for **375+ pointe shoe models** from **15 major manufacturers**:
 
@@ -220,16 +220,16 @@ Licensed under CC BY 4.0
 ```
 not endorsed for commercial use 
 
-## 🔗 Related Projects
+## Related Projects
 - **[Data Pointes Lab](https://datapointeslab.com)** - Interactive pointe shoe matching optimization app and data analytics platform
 
 
-## 🏷️ Version History
+## 🏷Version History
 
 - **v2025.06**: Initial release of open source database (375 shoes, 15 brands)
 - **v2025.06**: Beta testing phase of Data Pointes Lab Application
 
-## ⚖️ Legal Notice
+## Legal Notice
 
 This database is provided for informational and educational purposes only. The creators and maintainers of this database:
 
