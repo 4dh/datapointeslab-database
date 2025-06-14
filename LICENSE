@@ -1,73 +1,69 @@
-# License
+LICENSE
 
-## Creative Commons Attribution 4.0 International (CC BY 4.0)
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-This database and dataset are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This database and dataset are licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/).
 
-### What's Covered
+What's Covered
 - The Data Pointes Lab Database (STANDARD_POINTES_DB.xlsx)
 - All associated data files and documentation
 
-### Attribution Requirements
+Attribution Requirements
 
 When using this data, you must provide appropriate credit. Please use this attribution format:
 
-```
 "Data Pointes Lab Database" by Danielle Heymann (Data Pointes Lab) 
 is licensed under CC BY 4.0. 
 Original source: https://github.com/4dh/datapointeslab-database
-```
 
-**Required Attribution Elements:**
-- **Creator**: Danielle Heymann
-- **Project**: Data Pointes Lab (https://datapointeslab.com)
-- **License**: CC BY 4.0
-- **Source Link**: https://github.com/4dh/datapointeslab-database
-- **Changes**: Indicate if you modified the original data
+Required Attribution Elements:
+- Creator: Danielle Heymann
+- Project: Data Pointes Lab (https://datapointeslab.com)
+- License: CC BY 4.0
+- Source Link: https://github.com/4dh/datapointeslab-database
+- Changes: Indicate if you modified the original data
 
-### Permitted Uses
+Permitted Uses
 
 Under CC BY 4.0, you are free to:
 
-**Share** — copy and redistribute the material in any medium or format  
-**Adapt** — remix, transform, and build upon the material  
-**Commercial Use** — use the material for commercial purposes  
-**No Additional Restrictions** — you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits
+Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material
+Commercial Use — use the material for commercial purposes
+No Additional Restrictions — you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits
 
-### Commercial Use
+Commercial Use
 
-**Commercial use is explicitly permitted** under this license. You may:
+Commercial use is explicitly permitted under this license. You may:
 - Use the data in commercial applications
 - Sell products or services that incorporate this data
 - Include the data in proprietary software
 - Use the data for business intelligence or market research
 
-**Only requirement**: Proper attribution as specified above.
+Only requirement: Proper attribution as specified above.
 
-### Examples of Proper Attribution
+Examples of Proper Attribution
 
-**In academic papers:**
-> Data from "Data Pointes Lab Database" by Danielle Heymann (Data Pointes Lab, https://datapointeslab.com), licensed under CC BY 4.0. Available at: https://github.com/4dh/datapointeslab-database
+In academic papers:
+Data from "Data Pointes Lab Database" by Danielle Heymann (Data Pointes Lab, https://datapointeslab.com), licensed under CC BY 4.0. Available at: https://github.com/4dh/datapointeslab-database
 
-**In mobile apps:**
-> Pointe shoe data © Danielle Heymann (Data Pointes Lab, https://datapointeslab.com), CC BY 4.0. Source: https://github.com/4dh/datapointeslab-database
+In mobile apps:
+Pointe shoe data © Danielle Heymann (Data Pointes Lab, https://datapointeslab.com), CC BY 4.0. Source: https://github.com/4dh/datapointeslab-database
 
-**In modified datasets:**
-> Adapted from "Data Pointes Lab Database" by Danielle Heymann (Data Pointes Lab, https://datapointeslab.com), licensed under CC BY 4.0. Original source: https://github.com/4dh/datapointeslab-database. This version includes modifications to [describe changes].
+In modified datasets:
+Adapted from "Data Pointes Lab Database" by Danielle Heymann (Data Pointes Lab, https://datapointeslab.com), licensed under CC BY 4.0. Original source: https://github.com/4dh/datapointeslab-database. This version includes modifications to [describe changes].
 
-**In software documentation:**
-> This application uses data from the "Data Pointes Lab Database" by Danielle Heymann (Data Pointes Lab, https://datapointeslab.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Original source: https://github.com/4dh/datapointeslab-database
+In software documentation:
+This application uses data from the "Data Pointes Lab Database" by Danielle Heymann (Data Pointes Lab, https://datapointeslab.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Original source: https://github.com/4dh/datapointeslab-database
 
-### Disclaimer
+Disclaimer
 
 This data is provided "as-is" without warranty of any kind, express or implied. The contributors make no guarantees regarding the accuracy, completeness, or fitness for any particular purpose of the information contained in this database.
 
-**Note**: This license applies specifically to the database and data files. The recommendation algorithm and application code may be subject to different licensing terms.
+Note: This license applies specifically to the database and data files. The recommendation algorithm and application code may be subject to different licensing terms.
 
----
+Summary
 
-### Summary
-
-**You can use this data for anything, including commercial purposes, as long as you give proper credit.**
+You can use this data for anything, including commercial purposes, as long as you give proper credit.
 
 For the complete license text, visit: https://creativecommons.org/licenses/by/4.0/legalcode
