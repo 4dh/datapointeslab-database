@@ -11,26 +11,51 @@
   [![Brands](https://img.shields.io/badge/Brands-15+-orange.svg)]()
 </div>
 
-## ⚠️ Important Disclaimers
+## ⚠️ IMPORTANT DISCLAIMERS & LIABILITY LIMITATIONS
 
-**READ CAREFULLY BEFORE USING THIS DATA**
+**🚨 BY USING THIS DATA, YOU ACKNOWLEDGE AND AGREE TO THESE TERMS 🚨**
 
-### Data Accuracy & Currency
-- **Data may be outdated**: Pointe shoe specifications, availability, and pricing change frequently
-- **No warranty**: We provide this data "as-is" without any guarantees of accuracy, completeness, or fitness for any purpose
-- **Verify independently**: Always confirm specifications with manufacturers or authorized retailers before making purchasing decisions
-- **Not professional advice**: This data is for informational purposes only and does not constitute professional fitting advice
+**CRITICAL NOTICE:** This data is provided for informational purposes only. Pointe work is inherently dangerous and can cause serious injuries. Always consult qualified medical professionals and certified ballet instructors before beginning pointe work. We assume no liability for any injuries, damages, or losses resulting from use of this data.
 
-### Liability Limitations
-- **No responsibility for injuries**: We are not responsible for any injuries, damages, or adverse outcomes resulting from the use of this data
-- **No responsibility for purchases**: We are not responsible for incorrect purchases, financial losses, or dissatisfaction with products
-- **No responsibility for business decisions**: Commercial users assume full responsibility for any business decisions based on this data
-- **Use at your own risk**: Users assume all risks associated with using this information
+<details>
+<summary><strong>📋 Click to expand full liability disclaimer and legal terms</strong></summary>
 
-### Medical & Safety Considerations
-- **Consult professionals**: Always consult qualified pointe shoe fitters and dance instructors
-- **Individual needs vary**: Pointe shoe selection is highly individual and depends on many factors not captured in this data
-- **Safety first**: Improper pointe shoe selection can lead to serious injury
+### 🛡️ COMPLETE LIABILITY DISCLAIMER
+
+**WE ARE NOT RESPONSIBLE FOR:**
+- **Any injuries or damages** from using this data to select, purchase, or wear pointe shoes
+- **Physical harm** including foot, ankle, leg injuries, or other bodily harm from pointe work
+- **Financial losses** from inappropriate purchases or unsuitable footwear
+- **Professional consequences** from footwear-related injuries or performance issues
+- **Any direct, indirect, incidental, or consequential damages** of any kind
+
+### ⚕️ CRITICAL SAFETY WARNING
+
+**POINTE WORK IS INHERENTLY DANGEROUS** and can cause serious injuries including stress fractures, tendon damage, nerve damage, and chronic pain conditions.
+
+**MANDATORY REQUIREMENTS:**
+- Always consult qualified medical professionals before beginning pointe work
+- Work only with certified ballet instructors and professional fitters
+- This data is NOT a substitute for professional fitting or medical advice
+- Individual foot anatomy, strength, and training history are critical factors not captured in this data
+
+### 📊 DATA LIMITATIONS
+
+**NO WARRANTIES:** Data provided "AS-IS" with no guarantees of accuracy, completeness, or fitness for purpose.
+
+**DATA MAY BE OUTDATED:** Specifications, availability, and pricing change frequently. Always verify with manufacturers.
+
+**HIGHLY INDIVIDUAL:** Pointe shoe selection depends on numerous personal factors not included in this database.
+
+### ⚖️ LEGAL TERMS
+
+- **USE AT YOUR OWN RISK:** All use is entirely at your discretion and risk
+- **ASSUMPTION OF RISK:** You assume all risks associated with pointe shoe selection and use
+- **LIMITATION OF LIABILITY:** Maximum liability limited to $0 (the cost of this free data)
+- **INDEMNIFICATION:** Users agree to hold developers/creators harmless from any claims
+- **COMMERCIAL USE:** Business users assume full responsibility for decisions and compliance
+
+</details>
 
 ## 📊 What's Included
 
@@ -90,12 +115,12 @@ datapointeslab-database/
 
 **JSON Format** (Recommended for developers):
 ```bash
-curl -O https://raw.githubusercontent.com/yourusername/datapointeslab-database/main/data/pointe_shoes.json
+curl -O https://raw.githubusercontent.com/4dh/datapointeslab-database/main/data/pointe_shoes.json
 ```
 
 **Excel Format** (Recommended for researchers):
 ```bash
-curl -O https://raw.githubusercontent.com/yourusername/datapointeslab-database/main/data/STANDARD_POINTES_DB_CONSOLIDATED.xlsx
+curl -O https://raw.githubusercontent.com/4dh/datapointeslab-database/main/data/STANDARD_POINTES_DB_CONSOLIDATED.xlsx
 ```
 
 ### Using the Data
@@ -143,19 +168,16 @@ This database aggregates information from multiple sources to provide comprehens
 | **Manufacturer Websites** | Official product specifications and catalogs | All brands | 2024-06 | High |
 | **Authorized Retailers** | Product listings and detailed specifications | Major models | 2024-06 | High |
 | **Dance Supply Stores** | Professional fitting guides and product details | Popular models | 2024-05 | Medium-High |
-| **Professional Fitters** | Expert knowledge and fitting experience | Select models | 2024-04 | High |
-| **Ballet Schools** | Institutional purchasing guides and recommendations | Student models | 2024-03 | Medium |
 | **Dancer Communities** | User reviews and real-world experience | Various models | 2024-06 | Medium |
-| **Industry Publications** | Trade magazines and professional reviews | New releases | 2024-05 | Medium-High |
-| **Historical Archives** | Discontinued models and legacy specifications | Vintage models | 2024-02 | Medium |
+| **Industry Publications** | Magazines and professional reviews | New releases | 2024-05 | Medium-High |
+
 
 ### Source Verification Process
 
 1. **Primary Sources**: Manufacturer websites and official documentation (highest priority)
 2. **Cross-Reference**: Multiple sources verified against each other
-3. **Expert Review**: Professional fitters consulted for accuracy
-4. **Community Validation**: Experienced dancers provide real-world feedback
-5. **Continuous Updates**: Regular monitoring of source changes
+3. **Community and ExpertValidation**: Experienced dancers provide real-world feedback
+4. **Continuous Updates**: Regular monitoring of source changes
 
 ### Data Quality Notes
 
@@ -164,6 +186,7 @@ This database aggregates information from multiple sources to provide comprehens
 - **Professional Input**: Excellent for fitting nuances, limited to fitter experience
 - **Community Data**: Valuable for real-world performance, subject to individual variation
 - **Historical Data**: Important for completeness, may be less accurate due to age
+- **AI-Assisted Research**: Claude Sonnet and OpenAI GPT-4.1 assisted in data collection, research, and validation processes
 
 ### Known Limitations
 
@@ -171,16 +194,6 @@ This database aggregates information from multiple sources to provide comprehens
 - Pricing data reflects approximate ranges and varies by region
 - Customization options may not reflect all available variations
 - New model releases may have limited initial data
-
-## 📈 Applications
-
-This dataset has been used for:
-
-- **Research**: Academic studies on ballet footwear and injury prevention
-- **E-commerce**: Product recommendation systems
-- **Education**: Teaching data science with real-world ballet data
-- **Mobile Apps**: Pointe shoe selection and comparison tools
-- **Analytics**: Market analysis and trend identification
 
 ## 🤝 Contributing
 
@@ -190,7 +203,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for
 - **Data Updates**: Submit corrections or new shoe information
 - **Documentation**: Improve explanations and examples
 - **Validation**: Help verify data accuracy
-- **Translations**: Translate documentation to other languages
+
 
 ## 📄 License & Attribution
 
@@ -201,32 +214,20 @@ When using this data, please include:
 
 ```
 Data from Data Pointes Lab Database
-https://github.com/yourusername/datapointeslab-database
+Created by Danielle Heymann
+https://github.com/4dh/datapointeslab-database
 Licensed under CC BY 4.0
 ```
-
-### Commercial Use
-Commercial use is permitted under CC BY 4.0, but you must:
-- Provide proper attribution
-- Indicate if changes were made
-- Not imply endorsement by Data Pointes Lab
+not endorsed for commercial use 
 
 ## 🔗 Related Projects
+- **[Data Pointes Lab](https://datapointeslab.com)** - Interactive pointe shoe matching optimization app and data analytics platform
 
-- **[Data Pointes Lab](https://datapointeslab.com)** - Interactive pointe shoe fitting tool
-- **[Pointe Shoe Fitter API](https://github.com/yourusername/pointe-shoe-api)** - RESTful API for this data
-
-## 📞 Contact & Support
-
-- **Website**: [datapointeslab.com](https://datapointeslab.com)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/datapointeslab-database/issues)
-- **Email**: support@datapointeslab.com
 
 ## 🏷️ Version History
 
-- **v2024.06**: Initial public release (375 shoes, 15 brands)
-- **v2024.05**: Beta testing phase
-- **v2024.04**: Data collection and validation
+- **v2025.06**: Initial release of open source database (375 shoes, 15 brands)
+- **v2025.06**: Beta testing phase of Data Pointes Lab Application
 
 ## ⚖️ Legal Notice
 
