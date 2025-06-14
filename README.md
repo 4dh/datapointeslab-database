@@ -18,7 +18,7 @@
 **CRITICAL NOTICE:** This data is provided for informational purposes only. Pointe work is inherently dangerous and can cause serious injuries. Always consult qualified medical professionals and certified ballet instructors before beginning pointe work. We assume no liability for any injuries, damages, or losses resulting from use of this data.
 
 <details>
-<summary><strong>📋 Click to expand full liability disclaimer and legal terms</strong></summary>
+<summary><strong> Click to expand full liability disclaimer and legal terms</strong></summary>
 
 ### COMPLETE LIABILITY DISCLAIMER
 
@@ -86,7 +86,7 @@ This comprehensive dataset contains detailed specifications for **375+ pointe sh
 - Suffolk
 - Wear Moi
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 datapointeslab-database/
@@ -109,7 +109,7 @@ datapointeslab-database/
     └── logo_inverted_small_logo.png  # Inverted logo variant
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Download the Data
 
@@ -159,7 +159,7 @@ price_analysis <- shoes_data %>%
   )
 ```
 
-## 📚 Data Sources
+## Data Sources
 
 This database aggregates information from multiple sources to provide comprehensive pointe shoe specifications:
 
@@ -195,7 +195,7 @@ This database aggregates information from multiple sources to provide comprehens
 - Customization options may not reflect all available variations
 - New model releases may have limited initial data
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines.
 
@@ -204,8 +204,14 @@ We welcome contributions! Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for
 - **Documentation**: Improve explanations and examples
 - **Validation**: Help verify data accuracy
 
+  To contribute, you can either
+- use the form on the [Data Pointes Lab](https://datapointeslab.com/feedback) website
+- or submit a pull request to this repository
 
-## 📄 License & Attribution
+
+
+
+## License & Attribution
 
 This work is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
@@ -224,7 +230,7 @@ not endorsed for commercial use
 - **[Data Pointes Lab](https://datapointeslab.com)** - Interactive pointe shoe matching optimization app and data analytics platform
 
 
-## 🏷Version History
+## Version History
 
 - **v2025.06**: Initial release of open source database (375 shoes, 15 brands)
 - **v2025.06**: Beta testing phase of Data Pointes Lab Application
