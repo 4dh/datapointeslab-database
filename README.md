@@ -186,7 +186,8 @@ This database aggregates information from multiple sources to provide comprehens
 - **Professional Input**: Excellent for fitting nuances, limited to fitter experience
 - **Community Data**: Valuable for real-world performance, subject to individual variation
 - **Historical Data**: Important for completeness, may be less accurate due to age
-- **AI-Assisted Research**: Claude Sonnet and OpenAI GPT-4.1 assisted in data collection, research, and validation processes
+- **AI-Assisted Research**: Claude Sonnet, Perplexity, and OpenAI GPT-4.1 assisted in data collection, research, and validation processes
+- **AI-Human Validation System**: a software system to do additional data collection and validation via perplexity was developed to improve accuracy of model specs
 
 ### Known Limitations
 
@@ -194,6 +195,7 @@ This database aggregates information from multiple sources to provide comprehens
 - Pricing data reflects approximate ranges and varies by region
 - Customization options may not reflect all available variations
 - New model releases may have limited initial data
+- There may be innacuracies in the data due to mistakes in data collection or assumptions
 
 ## Contributing
 
@@ -227,7 +229,7 @@ Licensed under CC BY 4.0
 not endorsed for commercial use 
 
 ## Related Projects
-- **[Data Pointes Lab](https://datapointeslab.com)** - Interactive pointe shoe matching optimization app and data analytics platform
+- **[Data Pointes Lab](https://datapointeslab.com)** - Interactive pointe shoe data analytics platform
 
 
 ## Version History
